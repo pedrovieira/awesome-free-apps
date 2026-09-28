@@ -87,6 +87,7 @@
 - [Foobar2000](https://foobar2000.org) - Minimalist player supporting advanced playback features and customization. 🤖 🍎
 - [Retro Music](https://retromusic.app) - A cleen music player made for android with speed controls and multiple themes and customizations. 🤖
 - [Music Speed Changer](https://musicspeedchanger.com) - A Music player with mainly speed controls, eq options, and mores. 🤖 🍎
+- [KuruBeats](https://github.com/kurupdevs/KuruBeats) - Free, open-source Android music player for streaming and offline music with a clean Material You UI. 🤖 🟢
 
 ### Audio Recording
 
